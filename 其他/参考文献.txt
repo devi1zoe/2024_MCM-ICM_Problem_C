@@ -1,0 +1,14 @@
+放在四种指标的分类处
+[1] Ma, S. M. ,  Liu, C. C. ,  Tan, Y. , &  Ma, S. C. . (2013). Winning matches in grand slam men's singles: an analysis of player performance-related variables from 1991 to 2008. J Sports, 31(11), 1147-1155.
+
+
+
+Momentum的定义
+[1] Moss, B. , & O’Donoghue, Peter. (2015). Momentum in us open men's singles tennis. International Journal of Performance Analysis in Sport, 15(3), 884-896.
+
+
+
+置换检验相关论文
+[1] Hemerik, J. , &  Goeman, J. . (2014). Exact testing with random permutations.
+[1] Holt, C. A. , &  Sullivan, S. . Permutation tests for experimental data. Social Science Electronic Publishing.
+[1] Li, J. (2023). The principle and state-of-art applications of permutation tests. Highlights in Science, Engineering and Technology.
